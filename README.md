@@ -1,4 +1,4 @@
-# space-to-tabs
+# string-constants
 [![NPM Version](https://img.shields.io/npm/v/string-constants.svg?style=flat)](https://www.npmjs.com/package/string-constants)
 
 Various string definitions for easy use
