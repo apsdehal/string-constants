@@ -1,8 +1,8 @@
 {
   "name": "string-constants",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Various string constants definitions for easy use",
-  "main": "index.js",
+  "main": "string-constants.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apsdehal/string-constants.git"

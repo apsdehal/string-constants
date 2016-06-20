@@ -1,0 +1,30 @@
+{
+  "name": "string-constants",
+  "description": "Various string constants definitions for easy use",
+  "main": "string-constants.js",
+  "authors": [
+    "Amanpreet Singh <me@apsdehal.in>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "string",
+    "constant",
+    "alphabets",
+    "digits",
+    "ascii",
+    "letters"
+  ],
+  "homepage": "https://github.com/apsdehal/string-constants",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

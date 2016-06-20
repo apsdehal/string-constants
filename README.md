@@ -7,7 +7,11 @@ Various string definitions for easy use
 
 > npm install string-constants
 
+> bower install string-constants
+
 ## Usage
+
+### CommonJS
 
 ```js
 var stringConstants = require('string-constants');
@@ -32,6 +36,26 @@ var stringConstants = require('string-constants');
 console.log(stringConstants.digits);
 // 0123456789
 ```
+
+### Browser
+
+Include script from `bower_components/string-constants/string-constants.js`
+
+This will expose stringConstants variable to current context
+
+```
+console.log(this.stringConstants.digits);
+// 0123456789
+```
+
+### AMD
+
+```js
+define(['path-here'], function (stringConstants) {
+  
+});
+```
+
 ## License
 
 MIT © [Amanpreet Singh](https://apsdehal.in)
