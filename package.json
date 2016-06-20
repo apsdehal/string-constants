@@ -1,0 +1,24 @@
+{
+  "name": "string-constants",
+  "version": "0.0.1",
+  "description": "Various string constants definitions for easy use",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apsdehal/string-constants.git"
+  },
+  "keywords": [
+    "string",
+    "constant",
+    "alphabets",
+    "digits",
+    "ascii",
+    "letters"
+  ],
+  "author": "Amanpreet Singh <me@apsdehal.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apsdehal/string-constants/issues"
+  },
+  "homepage": "https://github.com/apsdehal/string-constants#readme"
+}
